@@ -2,11 +2,11 @@
 
 LibBinaural is a Free and Open Source lightweight library for using Binaural Beats in Java.
 
-[HBX Binaural Player](http://hbx.adolfintel.com) is based on this library.
+[HBX Binaural Player](http://hbx.fdossena.com) is based on this library.
 
 ## Usage
 To compile the projects, import them in Netbeans.
-Alternatively, you can get precompiled binaries from [my site](http://downloads.adolfintel.com/geth.php?r=libbinaural-latest)
+Alternatively, you can get precompiled binaries from [my site](http://downloads.fdossena.com/geth.php?r=libbinaural-latest)
 
 ## Compatibility
 __PC__: Multiplatform, Java SE 7 or newer (MP3 support requires Java SE 7).
